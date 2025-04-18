@@ -42,7 +42,7 @@
 </head>
 <body>
 
-  <h1>戦力集計ツール</h1>
+  <h1>スクショでラクラク！戦力統計sealseed</h1>
   <p>画像を複数選択して戦力の合計を出せるよ！</p>
   <input type="file" id="imageInput" accept="image/*" multiple>
   
